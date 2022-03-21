@@ -1,2 +1,0 @@
-# Mjdeployment
-node-docker-kubernetes
