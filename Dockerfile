@@ -16,3 +16,6 @@ COPY . /usr/src/user-service
 
 
 EXPOSE 3000
+
+
+CMD ["npm", "start"] 
