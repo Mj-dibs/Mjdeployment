@@ -12,7 +12,7 @@ COPY package.json /usr/src/user-service/
 RUN npm install
 
 # Bundle app source
-COPY ./usr/src/user-service
+COPY . /usr/src/user-service
 
 
 EXPOSE 3000
